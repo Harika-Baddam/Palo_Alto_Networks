@@ -1,0 +1,8 @@
+streamlit
+pandas
+seaborn
+<<<<<<< HEAD
+matplotlib
+=======
+matplotlib
+>>>>>>> 42f236b (added requirement)
