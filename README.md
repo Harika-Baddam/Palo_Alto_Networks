@@ -47,7 +47,7 @@ Attrition is mainly driven by early career stage, workload, and compensation fac
 
 ## 🔗 Links
 
-* GitHub Repo: 
+* GitHub Repo: https://github.com/Harika-Baddam/Palo_Alto_Networks/tree/main
 * Video Explanation: (add YouTube link)
 * Project Notebook: (Colab link if any)
 
